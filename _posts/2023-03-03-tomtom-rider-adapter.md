@@ -27,7 +27,7 @@ The adapter is just connecting to the power supply on the Tomtom mount and passe
 *First modification:* create new  to perfectly fit with the brass nails shown below.
 I wasn't able to find the 2mm brass rod recommended in the original model. My solution: tiny brass nails.
 
-![A photograpgh of the brass nails used](/assets/images/2023-03/IMG_20230303_142616.jpg "A photograpgh of the brass nails used"){: width="250" }
+![A photograpgh of the brass nails used](/assets/images/2023-03/IMG_20230303_142616.jpg "A photograpgh of the brass nails used"){: width="500" }
 
 *Second modification:* create a new cable exit that points downward. Also make it look like a funnel to prevent knicks at edge of the opening.
 The phone mount is to the right of the Tomtom mount and I wanted the USB cable to connect from below.
@@ -38,13 +38,13 @@ Room is luxury when looking at the original models wiring.
 Turned out I could have saved that - my default resistor pack did not offer values that came anywhere close to the ratio that was required for the voltage divider.
 So I went without the resistors entirely.
 
-![A photograpgh of the open adapter](/assets/images/2023-03/IMG_20230303_101128.jpg "A photograpgh of the open adapter"){: width="250" }
+![A photograpgh of the open adapter](/assets/images/2023-03/IMG_20230303_101128.jpg "A photograpgh of the open adapter"){: width="500" }
 
-![A photograpgh of the open adapter](/assets/images/2023-03/IMG_20230303_101400.jpg "A photograpgh of the open adapter"){: width="250" }
+![A photograpgh of the open adapter](/assets/images/2023-03/IMG_20230303_101400.jpg "A photograpgh of the open adapter"){: width="500" }
 
 A test with a laboratory power supply showed my phone charging with 1,15 A also without the resistors.
 
-![A photograpgh of the laboratory power supply measuring the charging current](/assets/images/2023-03/IMG_20230303_141049.jpg "A photograpgh of the laboratory power supply measuring the charging current"){: width="250" }
+![A photograpgh of the laboratory power supply measuring the charging current](/assets/images/2023-03/IMG_20230303_141049.jpg "A photograpgh of the laboratory power supply measuring the charging current"){: width="500" }
 
 
 *Forth modification:* Since the top part no longer holds the phone adapter - that surface demanded some beautification. I created a little logo with some text to fill the empty space.
