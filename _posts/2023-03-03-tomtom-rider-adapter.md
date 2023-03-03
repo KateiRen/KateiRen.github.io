@@ -14,6 +14,8 @@ beforetoc: "Get juice for your mobile instead"
 The original idea and Model can be found here
 [Printables.com: TomTom Rider mount adaptor | Power your phone from a sat-nav bracket](https://www.printables.com/de/model/72591-tomtom-rider-mount-adaptor-power-your-phone-from-a)
 
+The remix can be found [here](https://www.printables.com/de/model/414497-tomtom-rider-mount-adaptor-remix)
+
 ## Background
 
 I liked the original idea and make of this adapter - but did not want to have my phone sit on top of the adapter itself. I only use PLA which is not so longliving in the summer sun. Therefore I installed a Quad Lock mount for my mobile next to the Tomtom mount.
