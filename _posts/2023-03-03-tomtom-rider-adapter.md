@@ -12,9 +12,9 @@ beforetoc: "Get juice for your mobile instead"
 ## This is a Remix
 
 The original idea and Model can be found here
-[Printables.com: TomTom Rider mount adaptor | Power your phone from a sat-nav bracket](https://www.printables.com/de/model/72591-tomtom-rider-mount-adaptor-power-your-phone-from-a)
+[Printables.com: TomTom Rider mount adaptor | Power your phone from a sat-nav bracket](https://www.printables.com/de/model/72591-tomtom-rider-mount-adaptor-power-your-phone-from-a).
 
-The remix can be found [here](https://www.printables.com/de/model/414497-tomtom-rider-mount-adaptor-remix)
+The remix can be found [here](https://www.printables.com/de/model/414497-tomtom-rider-mount-adaptor-remix).
 
 ## Background
 
@@ -53,4 +53,5 @@ A test with a laboratory power supply showed my phone charging with 1,15 A also 
 
 ## Result
 
+It fits nicely on the Tomtom mount and provides energy while navigating:
 ![A photograpgh of the adapter mounted on my bike](/assets/images/2023-03/IMG_20230303_172648.jpg "A photograpgh of the adapter mounted on my bike")
