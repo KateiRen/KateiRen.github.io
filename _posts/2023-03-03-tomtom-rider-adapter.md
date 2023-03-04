@@ -29,10 +29,13 @@ The adapter is just connecting to the power supply on the Tomtom mount and passe
 **First modification:** create new  to perfectly fit with the brass nails shown below.
 I wasn't able to find the 2mm brass rod recommended in the original model. My solution: tiny brass nails.
 
+![A 3D Render of the new designed holes](/assets/images/Screenshot_2023-03-04_224038.png "A 3D Render of the new designed holes"){: width="500" }
 ![A photograpgh of the brass nails used](/assets/images/2023-03/IMG_20230303_142616.jpg "A photograpgh of the brass nails used"){: width="500" }
 
 **Second modification:** create a new cable exit that points downward. Also make it look like a funnel to prevent knicks at edge of the opening.
 The phone mount is to the right of the Tomtom mount and I wanted the USB cable to connect from below.
+
+![A 3D Render of the new designed cable exit](/assets/images/Screenshot_2023-03-04_223620.png "A 3D Render of the new designed cable exit"){: width="500" }
 
 **Third modification:** I increased thickness to make more room for cabling / resistors. 
 Room is luxury when looking at the original models wiring.
@@ -54,4 +57,4 @@ A test with a laboratory power supply showed my phone charging with 1,15 A also 
 ## Result
 
 It fits nicely on the Tomtom mount and provides energy while navigating:
-![A photograpgh of the adapter mounted on my bike](/assets/images/2023-03/IMG_20230303_172648.jpg "A photograpgh of the adapter mounted on my bike")
+![A photograpgh of the adapter mounted on my bike](/assets/images/WhatsApp_Image_2023-03-04_at_22.47.53.jpeg "A photograpgh of the adapter mounted on my bike")
