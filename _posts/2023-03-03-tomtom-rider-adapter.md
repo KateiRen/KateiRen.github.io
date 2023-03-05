@@ -53,6 +53,7 @@ A test with a laboratory power supply showed my phone charging with 1,15 A also 
 
 
 **Fourth modification:** Since the top part no longer holds the phone adapter - that surface demanded some beautification. I created a little logo with some text to fill the empty space.
+![A 3D Render of the logo](/assets/images/2023-03/Screenshot_2023-03-04_223150.png "A 3D Render of the logo"){: width="500" }
 
 ## Result
 
