@@ -40,3 +40,5 @@ Measurements done on the laboratory power supply show that my Galaxy S21 draws a
 Hooked up with the bike, the phone tells me at 58% that it needs 1 hour and 1 minute until fully charged. Let's see if that gives enough juice when the display, LTE and GPS is switched on...
 
 ![Final result of the adaptor](20240322_125221.jpg){: width="500" }
+
+3D Models can be found (here)[https://www.printables.com/de/model/815679-tomtom-rider-mount-adaptor-remix-v2]
