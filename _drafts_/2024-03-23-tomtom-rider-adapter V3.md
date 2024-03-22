@@ -7,7 +7,7 @@ image: assets/images/2024-03-20/20240321_221408.jpg
 beforetoc: "Get juice for your mobile instead"
 ---
 
-# Going for a second edition (with USB-A Socket)
+# Aiming for the max (with USB-C Socket)
 
 Its the time of the year again. The weather gets warmer and the next trips on the bike 🏍️ are getting closer. [The adaptor from last year](https://kateiren.github.io/tomtom-rider-adapter/) didn't hold to its promises. My phone ran out of battery while driving more than once.
 I wasn't able to get the power out of the charger to keep the deivce juiced up during navigation.
@@ -15,13 +15,12 @@ I wasn't able to get the power out of the charger to keep the deivce juiced up d
 Thats why I started tinkering on the adaptor again. Last time I wasn't 100% following the instructions as the required resistors were out of the usual to be found steps in my resistor library. Combining some ordinary resistors in a way to get to the same voltage divider was not possible due to the lack of space in the design. 
 
 This time I was ordering exactle whats needed plus a USB A socket to stay flexible with the cabling.
-By the way, the information behind tweaking the USB charging port can be found on this website [https://learn.adafruit.com/minty-boost/icharging](https://learn.adafruit.com/minty-boost/icharging).
 
 So modifying the 3D model again and a few tests later assembling could start.
 
 ## Putting it together
 
-![The new bottom part, still on the printing bed](20240321_150601.jpg){: width="500" }
+![The new bottom part, still on the printing bed](20240321_150601.jpg "The new bottom part, still on the printing bed"){: width="500" }
 
 ![The bottom part and top part next to each other](20240321_221418-2.jpg){: width="500" }
 
