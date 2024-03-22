@@ -20,17 +20,17 @@ So modifying the 3D model again and a few tests later assembling could start.
 
 ## Putting it together
 
-![The new bottom part, still on the printing bed](20240321_150601.jpg)
+![The new bottom part, still on the printing bed](20240321_150601.jpg){: width="500" }
 
-![The bottom part and top part next to each other](20240321_221418-2.jpg)
+![The bottom part and top part next to each other](20240321_221418-2.jpg){: width="500" }
 
-![zooming in on the wiring inside the bottom part](20240321_221408-2.jpg)
+![zooming in on the wiring inside the bottom part](20240321_221408-2.jpg){: width="500" }
 
-![Side view of the USN Socket](20240322_091342-2.jpg) 
+![Side view of the USN Socket](20240322_091342-2.jpg){: width="500" }
 
-![Upside down view, showing the contact surfaces](20240322_114911-2.jpg)
+![Upside down view, showing the contact surfaces](20240322_114911-2.jpg){: width="500" }
 
-![Sealing the adaptor after checking that there is no short circuit](20240322_103716-2.jpg)
+![Sealing the adaptor after checking that there is no short circuit](20240322_103716-2.jpg){: width="500" }
 
 
 ## Result
@@ -39,4 +39,4 @@ Measurements done on the laboratory power supply show that my Galaxy S21 draws a
 
 Hooked up with the bike, the phone tells me at 58% that it needs 1 hour and 1 minute until fully charged. Let's see if that gives enough juice when the display, LTE and GPS is switched on...
 
-![Final result of the adaptor](20240322_125221.jpg)
+![Final result of the adaptor](20240322_125221.jpg){: width="500" }
