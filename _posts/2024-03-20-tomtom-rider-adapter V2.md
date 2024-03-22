@@ -21,17 +21,17 @@ So modifying the 3D model again and a few tests later assembling could start.
 
 ## Putting it together
 
-![The new bottom part, still on the printing bed](20240321_150601.jpg){: width="500" }
+![The new bottom part, still on the printing bed](/assets/images/2024-03-20/20240321_150601.jpg){: width="500" }
 
-![The bottom part and top part next to each other](20240321_221418-2.jpg){: width="500" }
+![The bottom part and top part next to each other](/assets/images/2024-03-20/20240321_221418-2.jpg){: width="500" }
 
-![zooming in on the wiring inside the bottom part](20240321_221408-2.jpg){: width="500" }
+![zooming in on the wiring inside the bottom part](/assets/images/2024-03-20/20240321_221408-2.jpg){: width="500" }
 
-![Side view of the USN Socket](20240322_091342-2.jpg){: width="500" }
+![Side view of the USN Socket](/assets/images/2024-03-20/20240322_091342-2.jpg){: width="500" }
 
-![Upside down view, showing the contact surfaces](20240322_114911-2.jpg){: width="500" }
+![Upside down view, showing the contact surfaces](/assets/images/2024-03-20/20240322_114911-2.jpg){: width="500" }
 
-![Sealing the adaptor after checking that there is no short circuit](20240322_103716-2.jpg){: width="500" }
+![Sealing the adaptor after checking that there is no short circuit](/assets/images/2024-03-20/20240322_103716-2.jpg){: width="500" }
 
 
 ## Result
