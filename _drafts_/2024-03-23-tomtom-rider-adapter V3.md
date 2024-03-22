@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Tomtom Rider Adapter V2"
+title:  "Tomtom Rider Adapter V3"
 author: karsten
 categories: [ 3D-Printing, motorbike ]
-image: assets/images/2024-03-20/20240321_221408.jpg
+image: assets/images/2024-03-23/20240322_125245.jpg
 beforetoc: "Get juice for your mobile instead"
 ---
 
 # Aiming for the max (with USB-C Socket)
+
+With USB-A and 5V, the max charging current seems to be 1A.
+With USB-C and 5V it seems that 1,5A are possible. So lets do another (last?) version.
+
+
 
 Its the time of the year again. The weather gets warmer and the next trips on the bike 🏍️ are getting closer. [The adaptor from last year](https://kateiren.github.io/tomtom-rider-adapter/) didn't hold to its promises. My phone ran out of battery while driving more than once.
 I wasn't able to get the power out of the charger to keep the deivce juiced up during navigation.
