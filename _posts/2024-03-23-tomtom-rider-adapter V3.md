@@ -4,6 +4,7 @@ title:  "Tomtom Rider Adapter V3"
 author: karsten
 categories: [ 3D-Printing, motorbike ]
 image: assets/images/2024-03-23/20240322_125245.jpg
+featured: yes
 beforetoc: "Get juice for your mobile instead"
 ---
 
