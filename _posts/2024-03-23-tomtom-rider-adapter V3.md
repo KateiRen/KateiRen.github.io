@@ -12,9 +12,9 @@ beforetoc: "Get juice for your mobile instead"
 With USB-A and 5V, the max charging current seems to be 1A.
 With USB-C and 5V it seems that 1,5A are possible. So lets do another (last?) version.
 
-At least according to this [source](https://forum.digikey.com/t/simple-way-to-use-usb-type-c-to-get-5v-at-up-to-3a-15w/7016/33) higher currenty on USB-C with 5V should be easy. According to the headline, up to 3A should be working.
+At least according to this [source](https://forum.digikey.com/t/simple-way-to-use-usb-type-c-to-get-5v-at-up-to-3a-15w/7016/33) - higher currenty on USB-C with 5V should be easy. According to the headline, up to 3A should be working.
 
-I ordered SMD type USB-C sockets which I found out without even trying that these small pins will not become friends of my loose-in-the-air resistor cabling.
+I ordered two USB-C sockets which I found out without even trying, that these small pins will not become friends of my loose-in-the-air resistor cabling.
 
 Oh, there are pretty nice small boards with soldered USB-C sockets availabel as well.
 Let's order these and wait again.
@@ -38,4 +38,4 @@ Measurements done on the laboratory power supply show that my Galaxy S21 draws a
 
 ![All three versions of the design next to each other](/assets/images/2024-03-23/20240322_125245.jpg)
 
-3D Models can be found (here)[https://www.printables.com/de/model/817171-tomtom-rider-mount-adaptor-remix-v3]
+3D Models can be found [here](https://www.printables.com/de/model/817171-tomtom-rider-mount-adaptor-remix-v3)
