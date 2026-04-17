@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Programming ESP32/ESP8266 in MicroPython via Jupyter Notebook"
 author: karsten
 categories: [ tutorial, micropython ]

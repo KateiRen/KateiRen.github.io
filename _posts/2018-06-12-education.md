@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Education must also train one for quick, resolute and effective thinking."
 author: john
 categories: [ Jekyll, tutorial ]

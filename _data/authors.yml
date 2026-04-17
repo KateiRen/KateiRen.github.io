@@ -1,0 +1,19 @@
+sal:
+  name: "Sal"
+  bio: "Original Mediumish demo author profile."
+
+john:
+  name: "John"
+  bio: "Original Mediumish demo author profile."
+
+karsten:
+  name: "Karsten"
+  avatar: "/assets/images/avatar.png"
+  bio: "Technology addicted geek, trying to get my hands on everything fancy from 3d printers, laser cutters to ESP32 boards and everything else you can make beep and program."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.hartlieb-web.de"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://twitter.com/karstenhartlieb"

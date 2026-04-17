@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Tomtom Rider Adapter zu USB-C"
 author: karsten
 categories: [ 3D-Printing, motorbike ]

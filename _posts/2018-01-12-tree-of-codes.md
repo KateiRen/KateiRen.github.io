@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Tree of Codes"
 author: sal
 categories: [ Jekyll, tutorial ]

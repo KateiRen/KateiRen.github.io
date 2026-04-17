@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "We all wait for summer"
 author: john
 categories: [ Jekyll, tutorial ]

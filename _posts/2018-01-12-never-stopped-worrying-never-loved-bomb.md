@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Never stopped worrying or loving the bomb"
 author: sal
 categories: [ Jekyll ]

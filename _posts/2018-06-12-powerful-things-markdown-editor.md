@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Powerful things you can do with the Markdown editor"
 author: sal
 categories: [ Jekyll, tutorial ]

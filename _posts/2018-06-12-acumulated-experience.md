@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Accumulated experience of social living"
 author: sal
 categories: [ Jekyll, tutorial ]

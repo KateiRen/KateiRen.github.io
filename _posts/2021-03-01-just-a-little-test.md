@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Just a little test with Github Pages"
 author: karsten
 categories: [ tutorial ]

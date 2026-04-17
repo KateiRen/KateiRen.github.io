@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Options for creating a new site with Jekyll"
 author: john
 categories: [ Jekyll, tutorial ]

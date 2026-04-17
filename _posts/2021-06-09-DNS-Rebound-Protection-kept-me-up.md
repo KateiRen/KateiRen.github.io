@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How DNS Rebound Protection gets into your way for local HTTPS secured services"
 author: karsten
 categories: [ tutorial, raspi, docker ]

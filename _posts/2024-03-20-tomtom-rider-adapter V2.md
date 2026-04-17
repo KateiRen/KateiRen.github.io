@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Tomtom Rider Adapter V2"
 author: karsten
 categories: [ 3D-Printing, motorbike ]
