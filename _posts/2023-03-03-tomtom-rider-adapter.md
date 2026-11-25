@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "Tomtom Rider Adapter zu USB-C"
+title:  "Tomtom Rider Adapter to USB-C"
 author: karsten
+lang: en
+translation_key: tomtom-rider-adapter
+permalink: /en/tomtom-rider-adapter/
+redirect_from: /tomtom-rider-adapter/
 categories: [ 3D-Printing, motorbike ]
 image: assets/images/2023-03/IMG_20230303_101425.jpg
 beforetoc: "Get juice for your mobile instead"

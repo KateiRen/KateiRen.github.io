@@ -2,6 +2,10 @@
 layout: post
 title:  "Tomtom Rider Adapter V3"
 author: karsten
+lang: en
+translation_key: tomtom-rider-adapter-v3
+permalink: /en/tomtom-rider-adapter-v3/
+redirect_from: /tomtom-rider-adapter-V3/
 categories: [ 3D-Printing, motorbike ]
 image: assets/images/2024-03-23/20240322_125245.jpg
 featured: yes

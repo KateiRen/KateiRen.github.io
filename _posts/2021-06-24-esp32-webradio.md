@@ -2,6 +2,10 @@
 layout: post
 title:  "An ESP32 Webradio based on the VS10xx chipset"
 author: karsten
+lang: en
+translation_key: esp32-webradio
+permalink: /en/esp32-webradio/
+redirect_from: /esp32-webradio/
 categories: [ esp32, micropython ]
 image: assets/images/2021-06/20210622-IMG_20210622_124444.jpg
 beforetoc: "Can it really be that easy?"

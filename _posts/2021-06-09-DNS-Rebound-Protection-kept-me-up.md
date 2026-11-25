@@ -2,6 +2,10 @@
 layout: post
 title:  "How DNS Rebound Protection gets into your way for local HTTPS secured services"
 author: karsten
+lang: en
+translation_key: dns-rebind-protection
+permalink: /en/dns-rebound-protection-kept-me-up/
+redirect_from: /DNS-Rebound-Protection-kept-me-up/
 categories: [ tutorial, raspi, docker ]
 image: assets/images/photo-1605745341112-85968b19335b.jpg
 beforetoc: "Photo by Ian Taylor on Unsplash"

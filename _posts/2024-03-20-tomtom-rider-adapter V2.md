@@ -2,6 +2,10 @@
 layout: post
 title:  "Tomtom Rider Adapter V2"
 author: karsten
+lang: en
+translation_key: tomtom-rider-adapter-v2
+permalink: /en/tomtom-rider-adapter-v2/
+redirect_from: /tomtom-rider-adapter-V2/
 categories: [ 3D-Printing, motorbike ]
 image: assets/images/2024-03-20/20240321_221408.jpg
 beforetoc: "Get juice for your mobile instead"
@@ -9,7 +13,7 @@ beforetoc: "Get juice for your mobile instead"
 
 # Going for a second edition (with USB-A Socket)
 
-Its the time of the year again. The weather gets warmer and the next trips on the bike 🏍️ are getting closer. [The adaptor from last year](https://kateiren.github.io/tomtom-rider-adapter/) didn't hold to its promises. My phone ran out of battery while driving more than once.
+Its the time of the year again. The weather gets warmer and the next trips on the bike 🏍️ are getting closer. [The adaptor from last year]({% post_url 2023-03-03-tomtom-rider-adapter %}) didn't hold to its promises. My phone ran out of battery while driving more than once.
 I wasn't able to get the power out of the charger to keep the deivce juiced up during navigation.
 
 Thats why I started tinkering on the adaptor again. Last time I wasn't 100% following the instructions as the required resistors were out of the usual-to-be-found-steps in my resistor library. Combining some ordinary resistors in a way to get to the same voltage divider was not possible due to the lack of space in the design. 
