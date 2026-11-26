@@ -1,0 +1,6 @@
+Manchmal gibt as Apps, die tun einfach was sie sollen. Keine unnötigen Einstellungen, Werbungen, Zugriffrechte auf meine Kontakte, Standorthistorie oder Abos.
+Doch dann stellen sie fest, dass sich die Benutzer ohne all die Werbung und idividualisierten Angebote schlecht monetarisieren lassen.
+So geschehen u.a. bei der App meiner Wahl für Mitgliedskarten, Stocard. 20221 kauft Klarna Stocard. Seitdem wurde einiges umgestellt. Ich muusste die Klarna App installieren und einen Account anlegen um meine Stocard Karten weiterhin mit mir führen zu können. Aber Klarna ist kein Wallet für Kundenkarten. Klarna ist ein Zahlungsdienstleister, der meine Online-Zahlungen bündeln und druchführen will. Das ist ok, wenn ich einen Zahlungsdienstleister im Web nutzen will. Wenn ich einfach ab und zu an der Kasse eine Mitgliedschaft abscannen lassen will, ist die Klarna App nicht nötig und es erfordert mehrere Schritte um in der App im Bereich "Kundenkarten" die richtige Karte zu finden.
+
+Deshalb habe ich mir nach mehreren anderen erfolgreichen Projekten die Frag egestellt, was brauch tes eigentlich um die ursprüngliche Funktionalität ohne Bindung an ein Nutzerkonto und eine Subscription nachzubilden. Die Antwort ist: nicht viel!
+
